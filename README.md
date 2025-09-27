@@ -26,3 +26,7 @@ The final result was a rich informative podcast in Brazilian Portuguese, with gr
     <source src="./assets/audio/PodCraft_Piloto.wav" type="audio/wav"/>
     Your browser does not support the audio element.
 </audio>
+
+---
+
+Made by [Aaron Carneiro](https://github.com/euaaron) with AI.
