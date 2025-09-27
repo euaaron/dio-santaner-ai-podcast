@@ -8,10 +8,21 @@
 
 This is a repo containing files for the AI Podcast challenge from "Universia - Fundamentos de IA Generativa", a DIO/Santander bootcamp.
 
-Summary:
-1. [Image Generation](./ImageGenerationPrompts.md)
-2. Generate Text
-3. Generate Audio
-4. Generate SFX
-5. Final Result
+## Image Generation
 
+To start I generated a couple images using Nano Banana on [Google AI Studio](https://aistudio.google.com/). You can see all the process and result at [Image Generation](./ImageGenerationPrompts.md) section, in a separated file.
+
+## Script Generation
+
+Then I generated a script using GPT-5 on [Microsoft Copilot](https://copilot.microsoft.com/).
+
+## Speach Generation
+
+Finally I went to Google AI Studio again but now at the `/generate-speech` endpoint, pasted the script and added `Read aloud in podcast interview style.` on top of it. Then I edited Voice settings, renaming Speaker 1 to Aaron and Speaker 2 to Luana, using Fenrir and Sulafat voices.
+
+The final result was a rich informative podcast in Brazilian Portuguese, with great dictaction.
+
+<audio controls>
+    <source src="./assets/audio/PodCraft_Piloto.wav" type="audio/wav"/>
+    Your browser does not support the audio element.
+</audio>
