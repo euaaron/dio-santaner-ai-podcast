@@ -20,10 +20,19 @@ Then I generated a script using GPT-5 on [Microsoft Copilot](https://copilot.mic
 
 Finally I went to Google AI Studio again but now at the `/generate-speech` endpoint, pasted the script and added `Read aloud in podcast interview style.` on top of it. Then I edited Voice settings, renaming Speaker 1 to Aaron and Speaker 2 to Luana, using Fenrir and Sulafat voices.
 
-The final result was a rich informative podcast in Brazilian Portuguese, with great dictaction.
+The result was a rich informative podcast in Brazilian Portuguese, with great dictaction.
 
 <audio controls>
     <source src="./assets/audio/PodCraft_Piloto.wav" type="audio/wav"/>
+    Your browser does not support the audio element.
+</audio>
+
+## Post Production
+
+After generating the dialog, I Googled some royalty free music based on Minecraft, downloaded, mixed everything on CapCut and saved as `.mp3`, finally creating a professional grade Podcast episode.
+
+<audio controls>
+    <source src="./assets/audio/Podcraft.mp3" type="audio/mp3"/>
     Your browser does not support the audio element.
 </audio>
 
