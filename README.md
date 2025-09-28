@@ -24,7 +24,7 @@ The result was a rich informative podcast in Brazilian Portuguese, with great di
 
 <audio controls>
     <source src="./assets/audio/PodCraft_Piloto.wav" type="audio/wav"/>
-    Your browser does not support the audio element.
+    Your browser does not support the audio element, <a href="https://github.com/euaaron/dio-santaner-ai-podcast/raw/refs/heads/main/assets/audio/PodCraft_Piloto.wav" target="_blank">click here</a> to download the audio file.
 </audio>
 
 ## Post Production
@@ -33,7 +33,7 @@ After generating the dialog, I Googled some royalty free music based on Minecraf
 
 <audio controls>
     <source src="./assets/audio/Podcraft.mp3" type="audio/mp3"/>
-    Your browser does not support the audio element.
+    Your browser does not support the audio element, <a href="https://github.com/euaaron/dio-santaner-ai-podcast/raw/refs/heads/main/assets/audio/Podcraft.mp3" target="_blank">click here</a> to download the audio file.
 </audio>
 
 ---
